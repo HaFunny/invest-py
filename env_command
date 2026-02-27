@@ -1,0 +1,12 @@
+pip install pandas akshare openpyxl httpx -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+pip install akshare pandas openpyxl -i https://pypi.tuna.tsinghua.edu.cn/simple --user
+
+pip install --upgrade akshare
+
+pip install httpx[http2] pandas openpyxl -i http://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn
+
+pip install httpx[http2]
+
+set http_proxy=
+set https_proxy=
